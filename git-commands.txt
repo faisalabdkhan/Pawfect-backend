@@ -1,0 +1,11 @@
+git checkout your_branch_name
+
+git pull origin main
+
+git status 
+
+git add .
+
+git commit -m "your commit"
+
+git push origin your_branch_name
